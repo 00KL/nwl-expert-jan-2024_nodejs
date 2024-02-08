@@ -20,3 +20,5 @@ https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
   ```
 
 ### pub/sub - publish subscribers
+
+https://redis.io/commands/
